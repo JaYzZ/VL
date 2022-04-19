@@ -17,7 +17,7 @@ V+L Research
 	11. BriVL (WenLan2.0)
 	12. Multimodal Few-Shot Learning with Frozen Language Models 
 
-## Multilingual Pretraining
+## Multilingual Pretraining 
 	1. Turing-URL v2 (InfoXLM): MLM+TLM+XLCo
 	2. Turing-ULR v5 (XLM-E(LECTRA)): Corrective Language Modeling MRTD+TRTD (SOTA)
   
@@ -41,7 +41,7 @@ V+L Research
 		e. BarlowTwins
 		f. SimSiam
 		g. PCL
-    		h. AdCo
+		h. AdCo
 	2. Auto Regression / BERT like Mask Image Modeling
 		a. SimMIM
 		b. DINO
