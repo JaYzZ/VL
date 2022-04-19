@@ -22,20 +22,20 @@ V+L Research
 2. Turing-ULR v5 (XLM-E(LECTRA)): Corrective Language Modeling MRTD+TRTD (SOTA)
   
 ## Vision Latent Space Modeling
-1. VQ-VAE (1, 2 for hierarchy)
+1. VQ-VAE (1, **2 for hierarchy**)
 	* PeCo, Discrete Representation Strengthen ViT Robustness
-	* DALL-E (1, 2 for hierarchy) (Vision GPT-3, using dVAE+Transformer+CLIP, Logit-Laplace), NUWA
+	* DALL-E (1, **2 for hierarchy**) (Vision GPT-3, using dVAE+Transformer+CLIP, Logit-Laplace), NUWA
 	* VQ-GAN, ViT VQ-GAN
 2. Style-GAN 
 	* Style-CLIP
 4. MiCE
 5. PCL (Prototypical Contrastive Learning)
 	* FUDA (Prototypical Cross-domain SSL for Few-shot Unsupervised Domain Adaptation) 
-	* HCSC (Hierarchical Contrastive Selective Coding)
+	* **HCSC (Hierarchical Contrastive Selective Coding)**
  
  ## Vision Self Supervise 
 1. Contrastive:
-	1. MoCo (1, 2, 3)
+	1. **MoCo** (1, 2, 3)
 	2. SimCLR (1, 2), NNCLR
 	3. BYOL
 	4. SwAV
@@ -43,11 +43,11 @@ V+L Research
 	6. SimSiam
 	7. PCL
 	8. AdCo
-	9. HCSC
+	9. **HCSC**
 2. Auto Regression / BERT like Mask Image Modeling
 	1. SimMIM
 	2. DINO
 	3. BEiT
 	4. MAE
-	5. PeCo
+	5. **PeCo**
 	6. CAE: Representation Learning & Pre-text Task separation
