@@ -2,7 +2,14 @@
 V+L Research
 
 # Paper List
-  
+
+## Current Work References
+1. **Target: SOHO**
+2. Vokenization (English Wikipedia)
+3. BUTD VQA
+4. V+L Contrastive Learning Series：CLIP
+5. V+L VQ Series: SOHO, DALL-E(1,2)
+
 ## Multimodal Pretraining
 1. **SOHO** 
 2. **X-VLM** (SOTA)
