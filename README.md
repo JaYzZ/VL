@@ -36,7 +36,7 @@ V+L Research
 2. Style-GAN 
 	* Style-CLIP
 4. MiCE
-5. PCL (Prototypical Contrastive Learning)
+6. PCL (Prototypical Contrastive Learning)
 	* FUDA (Prototypical Cross-domain SSL for Few-shot Unsupervised Domain Adaptation) 
 	* **HCSC (Hierarchical Contrastive Selective Coding)**
  
@@ -57,4 +57,4 @@ V+L Research
 	3. BEiT
 	4. MAE
 	5. **PeCo**
-	6. CAE: Representation Learning & Pre-text Task separation
+	6. **CAE**: Representation Learning & Pre-text Task separation
