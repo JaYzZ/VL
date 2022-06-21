@@ -13,16 +13,17 @@ V+L Research
 ## Multimodal Pretraining
 1. **SOHO** 
 2. **X-VLM** (SOTA)
-3. CLIP (+CLIP-event and other follow-ups)
-4. SimVLM
-5. UNIMO 
-6. VirTex
-7. ALIGN 
-8. Oscar 
-9. Florence
-10. CoOp (Learning to Prompt VLM)
-11. BriVL (WenLan2.0)
-12. Multimodal Few-Shot Learning with Frozen Language Models 
+3. GLIP v1,**2**
+4. CLIP (+CLIP-event and other follow-ups)
+5. SimVLM
+6. UNIMO 
+7. VirTex
+8. ALIGN 
+9. Oscar 
+10. Florence
+11. CoOp (Learning to Prompt VLM)
+12. BriVL (WenLan2.0)
+13. Multimodal Few-Shot Learning with Frozen Language Models 
 
 ## Multilingual Pretraining 
 1. Turing-URL v2 (InfoXLM): MLM+TLM+XLCo
