@@ -25,6 +25,8 @@ V+L Research
 12. CoOp (Learning to Prompt VLM)
 13. BriVL (WenLan2.0)
 14. Multimodal Few-Shot Learning with Frozen Language Models 
+15. VLMo
+16. Parti
 
 ## Multilingual Pretraining 
 1. Turing-URL v2 (InfoXLM): MLM+TLM+XLCo
@@ -56,7 +58,12 @@ V+L Research
 2. Auto Regression / BERT like Mask Image Modeling
 	1. SimMIM
 	2. DINO
-	3. BEiT
+	3. BEiT v1-3
 	4. MAE
 	5. **PeCo**
 	6. **CAE**: Representation Learning & Pre-text Task separation
+	7. MILAN
+
+ ## Miscellaneous Reference
+1. kMaxTransformer
+2. GiT
